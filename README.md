@@ -111,6 +111,9 @@ All teams will demo their product on the demo day.
 **Q: I’m not confident yet, should I apply?**  
 **A: Yes — if you’re willing to put in the work. We’re looking for learning speed, not perfection.**
 
+**Q: I don't know what I want to learn. But I want to try. Should I apply?**  
+**A:** Absolutely. Figuring out what works for you and what doesn’t *is* a valid goal. You’re welcome to apply, and mentors will support you in exploring different paths.
+
 ---
 
 ## How To Apply
